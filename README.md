@@ -1,7 +1,6 @@
 <div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
 
 <h2 align="center">Heyy there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shubham <span style="color:yellow;">aka SJ🤩</span> </h2>  
-
 <br/>
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
@@ -30,6 +29,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
+<img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white"> 
 </p>
 
 <br />
