@@ -55,11 +55,4 @@
 
 ![SJ's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSj07&theme=dracula)
 
-
-
-#### Profile Views
-![visitors](https://gpvc.arturio.dev/ShubhamSj07)
-
-Leave a ⭐ from [here](https://github.com/ShubhamSj07/ShubhamSj07) if you like 😁
-
 </p>
