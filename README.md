@@ -1,58 +1,189 @@
-<div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
+![Athavani](https://socialify.git.ci/Tejas1510/Athavani/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
-<h3 align="center">Heyy there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shubham <span style="color:yellow;">aka SJ🤩</span> </h3>  
-<br/>
-<h3 align="center" style="color:yellow;" >About Me</h3>  
- <div align="center">
- 👨🏻‍🎓 Second Year IT undergrad
-<br>🤖 Android & UI/UX Enthusiast
-<br>⚒️ Focusing on Contributing to Open Source💜
-<br>👨‍💻 Learning new technologies & trying to become better version of myself💪
- </div>
+## 📢 Join Discord channel for Discussion about the project : [Athavani](https://discord.gg/gEqSYzc5Yu)
 
-<br/>
-
-<h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
-<div align="center">
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
-[![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
-
-</div>
-
-<h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Programming Languages & Tools I Prefer👨‍💻 </h3>  
 <p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
-<img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white"> 
+  <img width="400" height="400" src = "https://github.com/Tejas1510/Athavani/blob/master/assets/athavani.gif"></img>
+</p>  
+
+## 📌 Motive of the Project
+
+<b>Athavani or Memories</b> is a full-stack MERN tool built in order to save all your memories in a single place and rejoice them through the year.
+
+## 💡 Project Background
+
+The Project is built with the help of Reactjs and Material-Ui at Frontend and backed by Nodejs and Expressjs at Backend using MongoDB as a Database. The user has the following
+ability
+
+- Create a Memory
+- Update a Memory
+- Delete a Memory
+- Like a Particular Memory
+- Fetch all Memory at a Time
+
+
+<center><h1 align="center">Technologies Used</h1></center>
+<p align="center">
+<img src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/react1.png"></img>
+<img src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/nodejs.png"></img>
+<img src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/express.png"></img>
+<img src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/mongo.png"></img>
 </p>
 
-<br />
-
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
-<div align="center" >
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/ShubhamSj077)](https://twitter.com/ShubhamSj077)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/shubham-jadhav-77a588192/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_shubham_sj/)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:shubhamsj077@gmail.com)
-[![Steam Badge](https://img.shields.io/badge/-Steam-152C59?style=flat&labelColor=white&logo=steam&logoColor=0275AA)](https://steamcommunity.com/id/CrazySJ/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100008148766679)
-
+<p align="center" margin="10px">
+<img margin="10px" align="center" src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/netlify.png"></img>
+<img align="center" src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/heroku.png"></img>
 </p>
-<br/>
 
-<div align="center">
+## A sneak peek into what we have here🙈 :
 
-### Github Stats
+<p align="center">
+  <img width="650" height="550" src = "https://res.cloudinary.com/sjdev/image/upload/v1619870676/Git-Readme/Athavani-GIF_fy4qcg.gif"></img>
+</p>  
 
-![SJ's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&count_private=true&theme=onedark )
+### Creation of Memory
+<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/createMemory.gif" alt = "create memory"></p>
 
-![SJ's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSj07&theme=dracula)
+### Updation of Memory
+<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/updateMemory.gif" alt = "update memory"></p>
 
-</p>
+### Like a  Memory
+<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/likeMemory.gif" alt = "like memory"></p>
+
+### Delete a Memory
+<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/deleteMemory.gif" alt = "delete memory"></p>
+
+
+## ⭐ Getting Started
+
+Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
+
+- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SL5KKdmvJ1U)
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
+## 💥 A guide for Contribution
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+- Take a look at the Existing [Issues](https://github.com/Tejas1510/Athavani/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo and create a Branch for any Issue that you are working upon.
+- Read the [Code of Conduct](https://github.com/Tejas1510/Hacking-Scripts/blob/main/CODE_OF_CONDUCT.md)
+- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+- Add Screenshots to help us know what this Script is all about.
+- For more details visit the [Contribution Guide](https://github.com/Tejas1510/Athavani/blob/master/CONTRIBUTING.md)
+
+
+## ⭐ Contribution:
+**1.** Fork [this](https://github.com/Tejas1510/Athavani/) repository.
+Click on the <a href="https://github.com/Tejas1510/Athavani/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+
+**2.** Clone the forked repository.
+
+```bash
+git clone https://github.com/<your-github-username>/Athavani
+```
+
+**3.** Navigate to the project directory.
+
+```bash
+cd Athavani
+```
+
+**4.** Make changes in source code.
+
+**5.** Stage your changes and commit
+
+```bash
+#Add changes to Index
+git add .
+
+#Commit to the local repo
+git commit -m "<your_commit_message>"
+```
+
+**7.** Push your local commits to the remote repo.
+
+```bash
+git push
+```
+
+**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Athavani](https://github.com/Tejas1510/Athavani) project.
+
+##  ▶️ How to Run the Project
+
+**1.** Navigate to the project directory.
+
+```bash
+cd Athavani
+```
+
+**2.** Navigate to the Client directory.
+
+```bash
+cd client
+npm install
+npm start / yarn start
+```
+
+**3.** Navigate to the Server directory.
+
+```bash
+cd server
+npm install
+npm start 
+```
+🛈**IMPORTANT**🛈
+
+To open the webapp directly from CLI use:-
+```explorer "https://memoriestejastapas.netlify.app/"```
+
+if you have cloned this repo, then open git in this directory and use 
+``` ./script.sh ```
+
+## 📢  Open Source Program
+
+### This Project is a part of the following Open Source Program
+
+<img src ="https://github.com/Tejas1510/Athavani/blob/master/assets/Images/devscriptcode.png" alt ="Devscript Winter of Code"></img>
+<img src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/gssoc.png" alt = "GirlScript Summer of Code"></img>
+
+## ⭐ Issues:
+For major changes, you are welcomed to open an issue and discuss what you would like to contribute. Enhancements will be appreciated.
+
+## ❤️ Project Admin
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Tejas1510">
+            <img src="https://avatars0.githubusercontent.com/u/64543913?s=400&u=6468d71695b9ce8fc4a5704cfe7df32fdd28437a&v=4" width="200px;" alt="" style="border-radius:50%"/> <br />
+            <b>Tejas1510</b>
+            </a><br />
+            <a href="https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/commits?author=Tejas1510" title="Coding">💻</a>
+        </td>
+ </tr>
+ </table>
+
+## ✨ Contributors
+
+<a href="https://github.com/Tejas1510/Athavani/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Tejas1510/Athavani" />
+</a>
+
+
+
+
+## 🔔 Credits
+
+The project is built by learning from [JavaScript Mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA) and various resource available on the internet.
+
+
+
+<a href="https://github.com/Tejas1510"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Tejas1510/Athavani)
