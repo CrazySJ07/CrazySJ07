@@ -38,7 +38,7 @@ ability
 ## A sneak peek into what we have here🙈 :
 
 <p align="center">
-  <img width="650" height="550" src = "https://res.cloudinary.com/sjdev/image/upload/v1619870676/Git-Readme/Athavani-GIF_fy4qcg.gif"></img>
+  <img width="650" height="400" src = "https://res.cloudinary.com/sjdev/image/upload/v1619870676/Git-Readme/Athavani-GIF_fy4qcg.gif"></img>
 </p>  
 
 ### Creation of Memory
