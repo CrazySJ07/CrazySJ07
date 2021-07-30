@@ -18,7 +18,7 @@
 
 ## How to contribute ? 🤔
 
-- Get started with the Contributon Guidelines mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/blob/main/CONTRIBUTING.md)
+- Get started with the Contributon Guidelines mentioned [here](https://github.com/CrazySJ07/CrazySJ07/blob/main/CONTRIBUTING.md)
 <!-- - Make sure to follow our conventions mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/blob/main/frontend/conventions.md) -->
 
 
