@@ -7,12 +7,9 @@
 <!-- [![license](https://img.shields.io/github/license/HITK-TECH-Community/Community-Website)](#license) -->
 <!-- [![Join our Slack community https://www.webiny.com/slack](https://img.shields.io/badge/Slack-Join%20our%20community!-orange)](https://join.slack.com/t/hitkteckcommunity/shared_invite/zt-njgae7ki-Xn1y4Nmc_bwqwU~tN52vrg) -->
 
-<p align="center" width="400px"><img src="assets/HITK_tech_comm_logo.png" width="200"></p>
-<p align="center" width="400px"> <font size="5"> <b> HITK Tech Community 👩🏻‍💻👨🏻‍💻 </b></font></p> <br />
-Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ 
-We are a group of HITK students trying to fill the knowledge gap and help you find your place of discovery by sharing you the opportunities and resources at the right time!⏱️<br />
-
-This project aims to build the official site for the community page so that any student can use the resources shared by us.
+<p align="center" width="400px"><img src="./itesa-new-banner.png" width="300"></p>
+<p align="center" width="400px"> <font size="5"> <b> ITESA Community 🤩🚀</b></font></p> <br />
+<p align="center" > We, aim to provide an exposure to a community with various multi-talented personalities, meet them,build connections,<br /> increase your network, interactwith your seniors, juniors and explore new opportunities </p>
 
 ## Tech Stack 🗃
 
@@ -22,7 +19,7 @@ This project aims to build the official site for the community page so that any 
 ## How to contribute ? 🤔
 
 - Get started with the Contributon Guidelines mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/blob/main/CONTRIBUTING.md)
-- Make sure to follow our conventions mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/blob/main/frontend/conventions.md)
+<!-- - Make sure to follow our conventions mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/blob/main/frontend/conventions.md) -->
 
 
 ##  Getting Started 👨‍💻
@@ -31,11 +28,11 @@ This project aims to build the official site for the community page so that any 
 1. `Fork` the repository  - Creates a replica of repository to your local environment.
 2. Clone the repository - Downloads all repo files to your machine, using
   ```git
-  git clone https://github.com/YOUR-USERNAME/Community-Website
+  git clone https://github.com/YOUR-USERNAME/ITESA_WEBSITE
   ``` 
 3. Set working directory to the root directory of the project.
   ```sh
-  cd Community-Website
+  cd ITESA_WEBSITE/itesa-website/
   ```
 
 ## Frontend ⚛️
@@ -59,7 +56,7 @@ Following are the steps to run the frontend of the community-website on your loc
   http://localhost:3000
   ```
 
-The website is live at [https://hitk-tech-community.netlify.app/](https://hitk-tech-community.netlify.app/)
+The website is live at [https://itesa-dypcoeakurdi.netlify.app/](https://itesa-dypcoeakurdi.netlify.app/)
 
 
 ## Backend 💻
@@ -78,12 +75,12 @@ Following are the steps to run the backend of the community-website on your loca
   ```node
   npm start
   ```
-4. [Click here](http://localhost:3500) to see the backend server runing in the browser OR navigate to
+4. [Click here](http://localhost:8000) to see the backend server runing in the browser OR navigate to
   ```text
-  http://localhost:3500
+  http://localhost:8000
   ```
 
-The backend is live at [https://community-website-backend.herokuapp.com/](https://community-website-backend.herokuapp.com/)
+The backend is live at [https://itesa-dypcoe.herokuapp.com/](https://itesa-dypcoe.herokuapp.com/)
 
 ## Related Repositories 📂
 
