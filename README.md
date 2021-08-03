@@ -1,32 +1,106 @@
+# Community-Website
+<!-- [![All Contributors](https://img.shields.io/badge/all_contributors-bot-orange.svg?style=flat-square)](#contributors-) -->
+[![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
+[![Issues](https://img.shields.io/github/issues/HITK-TECH-Community/Community-Website)](#issues)
+[![forks](https://img.shields.io/github/forks/HITK-TECH-Community/Community-Website)](#forks)
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/d8d6b080-423d-45c8-974e-fb1f7986a028/deploy-status)](https://app.netlify.com/sites/canvasboard/deploys) -->
+<!-- [![license](https://img.shields.io/github/license/HITK-TECH-Community/Community-Website)](#license) -->
+<!-- [![Join our Slack community https://www.webiny.com/slack](https://img.shields.io/badge/Slack-Join%20our%20community!-orange)](https://join.slack.com/t/hitkteckcommunity/shared_invite/zt-njgae7ki-Xn1y4Nmc_bwqwU~tN52vrg) -->
 
-<div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1627474482/Git-Readme/Instagram_Story_1_s6sqgr.png"  > </div>
- <br />
-<div align="center" >
+<p align="center" width="400px"><img src="./itesa-new-banner.png" width="300"></p>
+<p align="center" width="400px"> <font size="5"> <b> ITESA Community 🤩🚀</b></font></p> <br />
+<p align="center" > We, aim to provide an exposure to a community with various multi-talented personalities, meet them,build connections,<br /> increase your network, interactwith your seniors, juniors and explore new opportunities </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/ShubhamSj077)](https://twitter.com/ShubhamSj077)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/shubham-jadhav-77a588192/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_shubham_sj/)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:shubhamsj077@gmail.com)
-[![Steam Badge](https://img.shields.io/badge/-Steam-152C59?style=flat&labelColor=white&logo=steam&logoColor=0275AA)](https://steamcommunity.com/id/CrazySJ/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100008148766679)
+## Tech Stack 🗃
 
-</p>
-<br/>
+ <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <img src="https://img.shields.io/badge/-ExpressJS-grey?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/ReactJS%20-%2320232a.svg?logo=react" >   <img src="https://img.shields.io/badge/-NodeJS%20-%2320232a?style=flat&logo=node.js"> 
+ 
 
-<div align="center">
+## How to contribute ? 🤔
 
-### GitHub Stats
-![Shubham Jadhav Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=onedark)
+- Get started with the Contributon Guidelines mentioned [here](https://github.com/CrazySJ07/CrazySJ07/blob/main/CONTRIBUTING.md)
+<!-- - Make sure to follow our conventions mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/blob/main/frontend/conventions.md) -->
 
-### GitHub Contributions
-![Shubham Jadhav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=ShubhamSj07)
 
-<br/>
-<br/>
+##  Getting Started 👨‍💻
+### Setup the repository to your local environment.
 
-#### Profile Views
-![visitors](https://gpvc.arturio.dev/ShubhamSj07)
+1. `Fork` the repository  - Creates a replica of repository to your local environment.
+2. Clone the repository - Downloads all repo files to your machine, using
+  ```git
+  git clone https://github.com/YOUR-USERNAME/ITESA_WEBSITE
+  ``` 
+3. Set working directory to the root directory of the project.
+  ```sh
+  cd ITESA_WEBSITE/itesa-website/
+  ```
 
-Leave a ⭐ from [here](https://github.com/ShubhamSj07/ShubhamSj07) if you like 😁
+## Frontend ⚛️
 
-</p>
+Following are the steps to run the frontend of the community-website on your local. All the frontend code will go in the `frontend` directory. 
+
+1. Navigate to `frontend` folder.
+  ```sh
+  cd frontend
+  ```
+2. Install all the required packages and dependencies.
+  ```node
+  npm install
+  ```
+3. Run the server.
+  ```node
+  npm start
+  ```
+4. [Click here](http://localhost:3000) to view it in the browser OR navigate to
+  ```text
+  http://localhost:3000
+  ```
+
+The website is live at [https://itesa-dypcoeakurdi.netlify.app/](https://itesa-dypcoeakurdi.netlify.app/)
+
+
+## Backend 💻
+
+Following are the steps to run the backend of the community-website on your local. All the backend code will go in the `backend` folder.
+
+1. Navigate to `backend` folder.
+  ```sh
+  cd backend
+  ```
+2. Install all the required packages and dependencies.
+  ```node
+  npm install
+  ```
+3. Run the server.
+  ```node
+  npm start
+  ```
+4. [Click here](http://localhost:8000) to see the backend server runing in the browser OR navigate to
+  ```text
+  http://localhost:8000
+  ```
+
+The backend is live at [https://itesa-dypcoe.herokuapp.com/](https://itesa-dypcoe.herokuapp.com/)
+
+## Related Repositories 📂
+
+- [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community) : The repository containing all the broadcasts done by HITK-TECH-Community
+
+
+## Community 👥
+
+[![Discord](https://img.shields.io/badge/Connect-Discord-%235764F2)](https://discord.com/invite/WyTupBNX76)
+
+<!-- ## Programs We have been associated with 🤍
+<a href="https://kwoc.kossiitkgp.org/" target="_blank"><img src="assets/KWoC.png" width="180px" height="180px"></a>
+<a href="https://swoc.tech/index.html" target="_blank"><img src="assets/SWoC.png" width="180px" height="180px"></a>
+<a href="https://devscript.tech/woc/" target="_blank"><img src="assets/DWoC.png" width="180px" height="180px"></a>
+<a href="https://gssoc.girlscript.tech/" target="_blank"><img src="assets/GSSoC.png" width="180px" height="180px"></a> -->
+
+## Contributors 🌟
+
+Thanks goes to these wonderful people ✨✨:
+
+<a href="https://github.com/ITESA-DYPCOE/ITESA_WEBSITE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ITESA-DYPCOE/ITESA_WEBSITE" />
+</a>
