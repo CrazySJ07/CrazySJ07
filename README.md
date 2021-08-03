@@ -1,5 +1,5 @@
 
-<div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1627474482/Git-Readme/Instagram_Story_1_s6sqgr.png" width="550px" height="650px" > </div>
+<div align="center" ><img src="https://res.cloudinary.com/sjdev/image/upload/v1627474482/Git-Readme/Instagram_Story_1_s6sqgr.png"  > </div>
  <br />
 <div align="center" >
 
