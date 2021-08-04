@@ -32,16 +32,16 @@
   ``` 
 3. Set working directory to the root directory of the project.
   ```sh
-  cd ITESA_WEBSITE/itesa-website/
+  cd ITESA_WEBSITE/
   ```
 
 ## Frontend ⚛️
 
-Following are the steps to run the frontend of the community-website on your local. All the frontend code will go in the `frontend` directory. 
+Following are the steps to run the frontend of the itesa-website on your local. All the frontend code will go in the `itesa-website` directory. 
 
-1. Navigate to `frontend` folder.
+1. Navigate to `itesa-website` folder.
   ```sh
-  cd frontend
+  cd itesa-website
   ```
 2. Install all the required packages and dependencies.
   ```node
