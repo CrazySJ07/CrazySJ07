@@ -1,19 +1,19 @@
-# Community-Website
+# ITESA-WEBSITE 🔥
 <!-- [![All Contributors](https://img.shields.io/badge/all_contributors-bot-orange.svg?style=flat-square)](#contributors-) -->
-[![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
-[![Issues](https://img.shields.io/github/issues/HITK-TECH-Community/Community-Website)](#issues)
-[![forks](https://img.shields.io/github/forks/HITK-TECH-Community/Community-Website)](#forks)
+<!-- [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io) -->
+[![Issues](https://img.shields.io/github/issues/ITESA_WEBSITE/itesa-website)](#issues)
+[![forks](https://img.shields.io/github/forks/ITESA_WEBSITE/itesa-website)](#forks)
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/d8d6b080-423d-45c8-974e-fb1f7986a028/deploy-status)](https://app.netlify.com/sites/canvasboard/deploys) -->
 <!-- [![license](https://img.shields.io/github/license/HITK-TECH-Community/Community-Website)](#license) -->
 <!-- [![Join our Slack community https://www.webiny.com/slack](https://img.shields.io/badge/Slack-Join%20our%20community!-orange)](https://join.slack.com/t/hitkteckcommunity/shared_invite/zt-njgae7ki-Xn1y4Nmc_bwqwU~tN52vrg) -->
 
-<p align="center" width="400px"><img src="./itesa-new-banner.png" width="300"></p>
-<p align="center" width="400px"> <font size="5"> <b> ITESA Community 🤩🚀</b></font></p> <br />
+<p align="center" ><img src="./itesa-new-banner.png" width="100%"></p>
+<h2 align="center"> <font size="5"> <b> ITESA Community 🤩🚀</b></font></h2> <br />
 <p align="center" > We, aim to provide an exposure to a community with various multi-talented personalities, meet them,build connections,<br /> increase your network, interactwith your seniors, juniors and explore new opportunities </p>
 
 ## Tech Stack 🗃
 
- <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <img src="https://img.shields.io/badge/-ExpressJS-grey?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/ReactJS%20-%2320232a.svg?logo=react" >   <img src="https://img.shields.io/badge/-NodeJS%20-%2320232a?style=flat&logo=node.js"> 
+ <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <img src="https://img.shields.io/badge/-ExpressJS-grey?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/ReactJS%20-%2320232a.svg?logo=react" >   <img src="https://img.shields.io/badge/-NodeJS%20-%2320232a?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-Material%20UI-grey?style=flat&logo=materialui&logoColor=00B0FF"> 
  
 
 ## How to contribute ? 🤔
@@ -84,7 +84,7 @@ The backend is live at [https://itesa-dypcoe.herokuapp.com/](https://itesa-dypco
 
 ## Related Repositories 📂
 
-- [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community) : The repository containing all the broadcasts done by HITK-TECH-Community
+- [ITESA-DYPCOE/community](https://github.com/ITESA-DYPCOE/community) : The repository containing all the sessions done by ITESA-Community
 
 
 ## Community 👥
